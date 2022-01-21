@@ -6,6 +6,8 @@ API: "https://newsapi.org"
 
 ## Imágenes
 
+![noticias](https://user-images.githubusercontent.com/88584244/150530948-0e404db4-be02-47e5-b300-2234f0a3fea2.png)
+
 ## Tecnologías
 
 • HTML  
